@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Sveiks no Stivena!\n");
+            Console.WriteLine("Sveiks no Skolotāja!\n");
         }
     }
 }
